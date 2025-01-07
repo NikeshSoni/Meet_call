@@ -1,8 +1,8 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/255630d1-dd0b-4549-9646-b06c1dd15961)
+![image](https://github.com/user-attachments/assets/3b42450e-ca68-4c1c-ae2f-a71d06f915c7)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/8fedce43-d7e7-4048-9ee1-083259000e01)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to Over Digital World
+Engineered a user-friendly online conferencing tool integrating ZugoCloud with React for real-time communication
+Live Demo - https://meet-call-tawny.vercel.app/
